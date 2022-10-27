@@ -1,0 +1,6 @@
+﻿  lab13.cpp
+C:\Users\Tyler\source\repos\cs201l-ss22-lab13-TylerNguyen2\lab13\lab13\lab13.cpp(19,9): warning C4101: 'position2': unreferenced local variable
+C:\Users\Tyler\source\repos\cs201l-ss22-lab13-TylerNguyen2\lab13\lab13\lab13.cpp(18,9): warning C4101: 'position1': unreferenced local variable
+  template.cpp
+  Generating Code...
+  lab13.vcxproj -> C:\Users\Tyler\source\repos\cs201l-ss22-lab13-TylerNguyen2\lab13\Debug\lab13.exe
